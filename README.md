@@ -1,3 +1,3 @@
-# Pertaland Backend with Python (Flask)
+# Pertaland Android with Python (Flask)
 
 This project is for Pertamina Hackathon 2.0 (Finalist)
